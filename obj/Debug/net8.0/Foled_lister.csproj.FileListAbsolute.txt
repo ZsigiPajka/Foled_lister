@@ -1,0 +1,17 @@
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Foled_lister.exe
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Foled_lister.deps.json
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Foled_lister.runtimeconfig.json
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Foled_lister.dll
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Foled_lister.pdb
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.AssemblyInfoInputs.cache
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.AssemblyInfo.cs
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.csproj.CoreCompileInputs.cache
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.dll
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\refint\Foled_lister.dll
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.pdb
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.genruntimeconfig.cache
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\ref\Foled_lister.dll
+C:\Skola\c#\Foled_lister\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.csproj.AssemblyReference.cache
+C:\Skola\c#\Foled_lister\obj\Debug\net8.0\Foled_lister.csproj.CopyComplete
